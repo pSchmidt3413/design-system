@@ -1,5 +1,5 @@
 # Compiled Lua sources
-luac.out
+luac.out hy
 
 # luarocks build files
 *.src.rock
